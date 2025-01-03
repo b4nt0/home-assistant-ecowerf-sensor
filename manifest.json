@@ -1,0 +1,11 @@
+{
+  "domain": "garbage_collection",
+  "name": "Ecowerf Belgium",
+  "version": "1.0.0",
+  "documentation": "https://github.com/b4nt0/home-assistant-ecowerf-sensor",
+  "dependencies": [],
+  "config_flow": false,
+  "codeowners": ["@b4nt0"],
+  "requirements": [
+  ]
+}
